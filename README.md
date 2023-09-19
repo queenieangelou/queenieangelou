@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @queenieangelou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Queenie Angelou V. Manigbas👋
 
-<!---
-queenieangelou/queenieangelou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technologies & Tools
+- VS code
+- Visual Studio Code
+- Pycharm
+
+## 📚 Learning
+I'm currently learning HTML, CSS, JAVASCRIPT
+
+## 💻 My Project
+- Simple CRUD in windows app
+- Calendar in C
+
+## 📫 Contact Me
+- Email: manigbasqueenieangelou@gmaiL.com
+
+Feel free to explore my repositories, and don't hesitate to reach out! 😄
