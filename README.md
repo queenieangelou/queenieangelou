@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Framework-Laravel-red?style=flat&logo=laravel&color=F05340"/>
   <img src="https://img.shields.io/badge/Stack-MERN-green?style=flat&logo=node.js&color=3C873A"/>
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&color=4479A1"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Analytics-Python-yellow?style=flat&logo=python&color=F7DF1E"/>
 </p>
 
 ---
@@ -20,15 +22,9 @@ I'm **Queenie**, a soon-to-be IT graduate from **Batangas State University**, sp
 I love turning ideas into working systems with clean code, good logic, and useful data.  
 Currently sharpening my backend dev skills through real-world experience at **Consultare Inc. Group**.
 
-### 🧠 What I Do:
-- Build RESTful APIs (Laravel, Node.js)
-- Design and integrate databases (MySQL, MongoDB)
-- Analyze data with Python (Pandas, Matplotlib)
-- Create full-stack systems with modern frameworks
-
 ---
 
-## 💼 Projects That Represent Me
+## 🚀 Featured Projects
 
 > 🔍 **Capstone**  
 **Enhancing Operational Efficiency at Gammad Auto Care Center**  
@@ -69,9 +65,34 @@ An aesthetic to-do + notes web app for busy people.
 
 ## 🧰 Tech Toolbox
 
-```bash
-💻 Languages:    JavaScript · PHP · Dart · Python · SQL · C# · C++ · VB.NET  
-🧠 Frameworks:   Laravel · CodeIgniter · Flutter · MERN Stack  
-🗂️ Databases:    MySQL · MongoDB · SQL Server  
-🧪 Tools:        Visual Studio · VS Code · Postman · Insomnia · Git · Figma  
-📊 Analytics:    Pandas · Matpl
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,dart,python,cpp,cs,html,css,vbnet" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,laravel,codeigniter" alt="Frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,visualstudio,postman,figma,git" alt="Tools"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenieangelou&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 📧 [manigbasqueenieangelou@gmail.com](mailto:manigbasqueenieangelou@gmail.com)
+- 📱 +63 966 975 0454
+- 🌍 [LinkedIn](#) *(drop your link here)*
+
+---
+
+<p align="center">
+  <i>“Keep learning. Keep building. Keep shipping.”</i><br/>
+  <b>#BackendDev • #Analytics • #CodeWithPurpose</b>
+</p>
