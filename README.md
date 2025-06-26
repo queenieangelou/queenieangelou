@@ -6,13 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=24&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Queenie Angelou Manigbas</h1>
-
-<p align="center">
-  💻 Aspiring Back‑End & Analytics Developer • 🎓 BSIT (Business Analytics) 2025<br/>
-  📍 Batangas, PH | 🚀 Laravel • MERN • Flutter • Python • Power BI
-</p>
-
 ---
 
 ## 🔥 GitHub Stats
