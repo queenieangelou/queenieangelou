@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Aspiring Back‑End & Analytics Developer • 🎓 BSIT (Business Analytics) 2025<br/>
-  📍 Mataas Na Kahoy, Batangas | 🚀 Laravel • MERN • Flutter • Python • Power BI
+  📍 Batangas, PH | 🚀 Laravel • MERN • Flutter • Python • Power BI
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🎓 Education
 | Period | School | Program |
 |--------|--------|---------|
-| **Aug 2021 – Jul 2025 (expected)** | **Batangas State University — The National Engineering University** | **B.S. Information Technology** (Specialization: *Business Analytics*) |
+| **Aug 2021 – Jul 2025** | **Batangas State University — The National Engineering University** | **B.S. Information Technology** (Specialization: *Business Analytics*) |
 | **Aug 2019 – Jun 2021** | La Purisima Concepcion Academy | Senior High School — *STEM Track* |
 
 ---
@@ -79,7 +79,7 @@
 |--------------|--------------|-----------|
 | **Capstone (2025)**<br/>*Enhancing Operational Efficiency – Dynamic Parts Procurement @ Gammad Auto Care Center* | Uses predictive analytics to streamline auto‑parts procurement & inventory | MERN Stack, Python (Pandas, Matplotlib) |
 | **WakeNav (2024)** | GPS‑based alarm that notifies riders before arrival to avoid missed stops | Flutter, Dart, Google Maps API |
-| **SwiftScan (2024)** | QR‑Code attendance management for schools | PHP, JavaScript, MySQL, HTML, CSS |
+| **SwiftScan (2023)** | QR‑Code attendance management for schools | PHP, JavaScript, MySQL, HTML, CSS |
 | **SariSolve (2023)** | Inventory system for sari‑sari stores; reduces manual tracking | PHP, MySQL, JS, HTML, CSS |
 | **BakeStock (2022)** | Bakery stock‑flow automation to avoid over‑/under‑stocking | VB.NET, SQL Server |
 | **NoteyCodey (2021)** | Online note‑taking & to‑do list web app | C#, MySQL, VS Code |
@@ -87,18 +87,23 @@
 ---
 
 ## 📬 Contact Me
-| | |
-|---|---|
-| **Email** | manigbasqueenieangelou@gmail.com |
-| **Phone** | +63 966 975 0454 |
-| **Location** | Mataas Na Kahoy, Batangas, Philippines |
 
-> Feel free to reach out for collaborations, internships, or just to chat about tech & data!
+<p>
+  <a href="mailto:manigbasqueenieangelou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+639669750454">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/maps/place/Mataas+Na+Kahoy,+Batangas,+Philippines" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Mataas%20Na%20Kahoy,%20Batangas-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 Random Dev Quote
-> “All too many of our software systems are, architecturally, little more than shantytowns.”  
-> — *Joseph Yoder*
+> "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
+> — *Arthur C. Clarke*
 
 <p align="center"><em>✨ Building reliable, data‑driven solutions — one line of code at a time. ✨</em></p>
