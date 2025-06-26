@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Back-End+Developer+%F0%9F%9A%80;Business+Analytics+Major+%F0%9F%93%88" alt="Typing Animation" />
 </h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=24&animation=fadeIn" />
-</p>
-
 ---
 
 ## 🔥 GitHub Stats
