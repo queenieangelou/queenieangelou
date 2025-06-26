@@ -1,70 +1,84 @@
-<h1 align="center">Hi there! 👋 I'm Queenie Angelou Manigbas</h1>
+<h1 align="center">Hi 👋 I'm Queenie Angelou Manigbas</h1>
 
 <p align="center">
-🚀 Back-End Developer Intern • 🎓 IT Student Specializing in Business Analytics • 🛠️ Laravel | MERN | Flutter Dev  
+🌟 Aspiring Backend Developer | 🎓 IT Student specializing in Business Analytics  
+📍 Batangas, PH | 💬 Laravel • MERN • Flutter • Data Analytics  
 </p>
 
 ---
 
-### 👩‍💻 About Me
-I'm a passionate tech enthusiast currently pursuing my **Bachelor of Science in Information Technology** at **Batangas State University – The National Engineering University**, majoring in **Business Analytics**. With hands-on internship experience in **REST API development**, I'm driven by solving real-world problems through modern tech stacks.
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=queenieangelou&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenieangelou&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-### 🧠 Tech Stack & Tools
+## 💻 Tech Stack
 
-**Languages:**  
-`JavaScript` `TypeScript` `Python` `PHP` `Dart` `HTML` `CSS` `SQL` `VB.NET` `C#` `C` `C++`
+<div align="center">
 
-**Frameworks & Tools:**  
-- **Web**: MERN Stack (MongoDB, Express.js, React, Node.js), Laravel, CodeIgniter  
-- **Mobile**: Flutter (Dart)  
-- **Data & BI**: Pandas, Matplotlib, Power BI  
-- **Tools**: Visual Studio, VS Code, Insomnia, MySQL, SQL Server, Git
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
 
-**Soft Skills:**  
-⏳ Time Management | 🔍 Detail-Oriented | 🧠 Strategic Thinking | 🧩 Problem Solving
+<br/>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
+
+</div>
 
 ---
 
-### 🔧 Internship Experience
-
-**Back-End Developer Intern** @ *Consultare Inc. Group*  
-📅 Feb 2025 – June 2025  
-- Developed and tested **RESTful APIs** with **Laravel + Insomnia**
-- Created controllers, routes, and worked with database queries and **ER diagrams**
-- Hands-on with **CodeIgniter**, API integration, and flowchart/DFD creation
-
----
-
-### 💡 Highlight Projects
+## 🛠 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🔧 Capstone: Predictive Auto Parts Procurement** | Optimized parts procurement at Gammad Auto Care Center using predictive analysis | MERN Stack, Python (Pandas, Matplotlib) |
-| **⏰ WakeNav** | Navigation alarm app to prevent missed destinations | Flutter, Dart, Maps API |
-| **📸 SwiftScan** | QR-based attendance system for schools | PHP, JavaScript, MySQL |
-| **📦 SariSolve** | Inventory tracker for sari-sari stores | PHP, MySQL, JS |
-| **🍞 BakeStock** | Bakery stock manager to reduce waste and shortage | VB.NET, SQL Server |
-| **📝 NoteyCodey** | Online notes & task list manager | C#, MySQL |
+| **🔧 Capstone** | Predictive Auto Parts Procurement | MERN + Python (Pandas, Matplotlib) |
+| **📍 WakeNav** | GPS Navigation Alarm App | Flutter, Dart, Maps API |
+| **📸 SwiftScan** | QR Attendance System | PHP, JS, MySQL |
+| **🛒 SariSolve** | Inventory System for Sari-Sari Stores | PHP, MySQL, JS |
+| **🍞 BakeStock** | Bakery Stock Manager | VB.NET, SQL Server |
+| **📝 NoteyCodey** | Online Notes and To-Do App | C#, MySQL |
 
 ---
 
-### 📫 Contact Me
-
-- 🌍 Location: Mataas Na Kahoy, Batangas, Philippines  
-- 📧 Email: manigbasqueenieangelou@gmail.com  
-- 📱 Mobile: +63 966 975 0454  
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(Add your profile)*  
-- 🧩 [Portfolio Website](https://yourwebsite.com) *(Optional)*  
-
----
-
-### ✨ Fun Fact
-I love turning complex backend logic into smooth, seamless solutions — and I never miss a deadline when I'm armed with coffee ☕💻.
-
----
+## 🌐 Socials
 
 <p align="center">
-✨ Let's build the future — one line of code at a time. ✨
+  <a href="mailto:manigbasqueenieangelou@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Add LinkedIn or Portfolio links if available -->
 </p>
+
+---
+
+## 💬 Random Dev Quote
+
+> *"All too many of our software systems are, architecturally, little more than shantytowns."*  
+> — *Joseph Yoder*
+
+---
+
+<p align="center">✨ Let's connect and build impactful tech together! ✨</p>
