@@ -1,98 +1,70 @@
-<h1 align="center">✨ Queenie Angelou Manigbas ✨</h1>
+<h1 align="center">Hi there! 👋 I'm Queenie Angelou Manigbas</h1>
 
 <p align="center">
-  <b>Backend Developer • Analytics Enthusiast • Tech Creator</b><br/>
-  <i>Building backend systems and smart solutions that actually solve real-world problems.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=8892BF"/>
-  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=flat&logo=laravel&color=F05340"/>
-  <img src="https://img.shields.io/badge/Stack-MERN-green?style=flat&logo=node.js&color=3C873A"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&color=4479A1"/>
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Analytics-Python-yellow?style=flat&logo=python&color=F7DF1E"/>
+🚀 Back-End Developer Intern • 🎓 IT Student Specializing in Business Analytics • 🛠️ Laravel | MERN | Flutter Dev  
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm **Queenie**, a soon-to-be IT graduate from **Batangas State University**, specializing in **Business Analytics**.  
-I love turning ideas into working systems with clean code, good logic, and useful data.  
-Currently sharpening my backend dev skills through real-world experience at **Consultare Inc. Group**.
+### 👩‍💻 About Me
+I'm a passionate tech enthusiast currently pursuing my **Bachelor of Science in Information Technology** at **Batangas State University – The National Engineering University**, majoring in **Business Analytics**. With hands-on internship experience in **REST API development**, I'm driven by solving real-world problems through modern tech stacks.
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 Tech Stack & Tools
 
-> 🔍 **Capstone**  
-**Enhancing Operational Efficiency at Gammad Auto Care Center**  
-📊 *Predictive analytics for smarter auto parts procurement*  
-🛠 *MongoDB • Express.js • React • Node.js • Python*
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `PHP` `Dart` `HTML` `CSS` `SQL` `VB.NET` `C#` `C` `C++`
 
----
+**Frameworks & Tools:**  
+- **Web**: MERN Stack (MongoDB, Express.js, React, Node.js), Laravel, CodeIgniter  
+- **Mobile**: Flutter (Dart)  
+- **Data & BI**: Pandas, Matplotlib, Power BI  
+- **Tools**: Visual Studio, VS Code, Insomnia, MySQL, SQL Server, Git
 
-> 🧭 **WakeNav**  
-A GPS-based alarm that wakes you before your stop (perfect for sleepy commutes).  
-🛠 *Flutter • Dart • Maps API*
-
----
-
-> 📷 **SwiftScan**  
-A QR code-powered attendance system to streamline school monitoring.  
-🛠 *PHP • MySQL • JavaScript • HTML/CSS*
+**Soft Skills:**  
+⏳ Time Management | 🔍 Detail-Oriented | 🧠 Strategic Thinking | 🧩 Problem Solving
 
 ---
 
-> 🛒 **SariSolve**  
-An inventory manager built for small sari-sari stores to reduce manual logs.  
-🛠 *PHP • MySQL • Vanilla JS*
+### 🔧 Internship Experience
+
+**Back-End Developer Intern** @ *Consultare Inc. Group*  
+📅 Feb 2025 – June 2025  
+- Developed and tested **RESTful APIs** with **Laravel + Insomnia**
+- Created controllers, routes, and worked with database queries and **ER diagrams**
+- Hands-on with **CodeIgniter**, API integration, and flowchart/DFD creation
 
 ---
 
-> 🍞 **BakeStock**  
-Helps bakeries prevent stock shortages and track ingredients in real time.  
-🛠 *VB.NET • SQL Server*
+### 💡 Highlight Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **🔧 Capstone: Predictive Auto Parts Procurement** | Optimized parts procurement at Gammad Auto Care Center using predictive analysis | MERN Stack, Python (Pandas, Matplotlib) |
+| **⏰ WakeNav** | Navigation alarm app to prevent missed destinations | Flutter, Dart, Maps API |
+| **📸 SwiftScan** | QR-based attendance system for schools | PHP, JavaScript, MySQL |
+| **📦 SariSolve** | Inventory tracker for sari-sari stores | PHP, MySQL, JS |
+| **🍞 BakeStock** | Bakery stock manager to reduce waste and shortage | VB.NET, SQL Server |
+| **📝 NoteyCodey** | Online notes & task list manager | C#, MySQL |
 
 ---
 
-> 📝 **NoteyCodey**  
-An aesthetic to-do + notes web app for busy people.  
-🛠 *C# • MySQL • Visual Studio*
+### 📫 Contact Me
+
+- 🌍 Location: Mataas Na Kahoy, Batangas, Philippines  
+- 📧 Email: manigbasqueenieangelou@gmail.com  
+- 📱 Mobile: +63 966 975 0454  
+- 🌐 [LinkedIn](https://www.linkedin.com/) *(Add your profile)*  
+- 🧩 [Portfolio Website](https://yourwebsite.com) *(Optional)*  
 
 ---
 
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,dart,python,cpp,cs,html,css,vbnet" alt="Languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,laravel,codeigniter" alt="Frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,visualstudio,postman,figma,git" alt="Tools"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenieangelou&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-- 📧 [manigbasqueenieangelou@gmail.com](mailto:manigbasqueenieangelou@gmail.com)
-- 📱 +63 966 975 0454
-- 🌍 [LinkedIn](#) *(drop your link here)*
+### ✨ Fun Fact
+I love turning complex backend logic into smooth, seamless solutions — and I never miss a deadline when I'm armed with coffee ☕💻.
 
 ---
 
 <p align="center">
-  <i>“Keep learning. Keep building. Keep shipping.”</i><br/>
-  <b>#BackendDev • #Analytics • #CodeWithPurpose</b>
+✨ Let's build the future — one line of code at a time. ✨
 </p>
