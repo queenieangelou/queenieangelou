@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=tokyonight&hide=issues" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=queenieangelou&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=queenieangelou&theme=onedark&column=7&margin-w=10&margin-h=15" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenieangelou&layout=compact&theme=tokyonight" height="180"/>
