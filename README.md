@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋 I'm Queenie Angelou Manigbas</h1>
 
 <p align="center">
-🌟 Aspiring Backend Developer | 🎓 IT Student specializing in Business Analytics  
-📍 Batangas, PH | 💬 Laravel • MERN • Flutter • Data Analytics  
+💻 Backend Developer Intern | 🎓 IT Student in Business Analytics  
+📍 Batangas, PH | 🚀 Laravel • MERN • Flutter • Python  
 </p>
 
 ---
 
 ## 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=queenieangelou&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=queenieangelou&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
@@ -19,66 +20,83 @@
 
 ---
 
-## 💻 Tech Stack
+## 💡 Skills Based on My Resume
 
-<div align="center">
+### 🖥️ Programming Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
-
-<br/>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+</p>
 
 ---
 
-## 🛠 Featured Projects
+### ⚙️ Development Tools & Frameworks
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+</p>
+
+---
+
+### 📊 Data Analysis & Visualization
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="50" title="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" title="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Power_bi_logo_black.svg" height="50" title="Power BI" />
+</p>
+
+---
+
+## 📁 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🔧 Capstone** | Predictive Auto Parts Procurement | MERN + Python (Pandas, Matplotlib) |
-| **📍 WakeNav** | GPS Navigation Alarm App | Flutter, Dart, Maps API |
-| **📸 SwiftScan** | QR Attendance System | PHP, JS, MySQL |
-| **🛒 SariSolve** | Inventory System for Sari-Sari Stores | PHP, MySQL, JS |
-| **🍞 BakeStock** | Bakery Stock Manager | VB.NET, SQL Server |
-| **📝 NoteyCodey** | Online Notes and To-Do App | C#, MySQL |
+| **Capstone** | Predictive Auto Parts Procurement | MERN, Pandas, Matplotlib |
+| **WakeNav** | GPS Navigation Alarm App | Flutter, Dart, Maps API |
+| **SwiftScan** | QR Attendance System | PHP, JavaScript, MySQL |
+| **SariSolve** | Inventory System for Sari-Sari Stores | PHP, MySQL |
+| **BakeStock** | Bakery Stock Manager | VB.NET, SQL Server |
+| **NoteyCodey** | Notes & Task Organizer | C#, MySQL |
 
 ---
 
 ## 🌐 Socials
 
 <p align="center">
-  <a href="mailto:manigbasqueenieangelou@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add LinkedIn or Portfolio links if available -->
+  <a href="mailto:manigbasqueenieangelou@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💬 Random Dev Quote
+## 🧠 Random Dev Quote
 
 > *"All too many of our software systems are, architecturally, little more than shantytowns."*  
 > — *Joseph Yoder*
 
 ---
 
-<p align="center">✨ Let's connect and build impactful tech together! ✨</p>
+<p align="center">
+✨ Building future-ready solutions, one line at a time. ✨
+</p>
