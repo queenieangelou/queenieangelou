@@ -1,10 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!+I'm+Queenie+Angelou+Manigbas;Aspiring+Back-End+Developer+%F0%9F%9A%80;Business+Analytics+Major+%F0%9F%93%88;Open+to+Collaboration+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=24&animation=fadeIn" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!+I'm+Queenie+Angelou+Manigbas;Aspiring+Back-End+Developer+%F0%9F%9A%80;Business+Analytics+Major+%F0%9F%93%88;Open+to+Collaboration+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -12,10 +12,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=queenieangelou&show_icons=true&theme=tokyonight&hide=issues" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=queenieangelou&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=queenieangelou&theme=onedark&column=7&margin-w=10&margin-h=15" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenieangelou&layout=compact&theme=tokyonight" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=queenieangelou&theme=onedark&column=7&margin-w=10&margin-h=15" />
 </p>
 
 ---
