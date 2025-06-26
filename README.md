@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!+I'm+Queenie+Angelou+Manigbas;Aspiring+Back-End+Developer+%F0%9F%9A%80;Business+Analytics+Major+%F0%9F%93%88;Open+to+Collaboration+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=24&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Queenie Angelou Manigbas</h1>
 
 <p align="center">
@@ -33,7 +41,7 @@
 
 ---
 
-## 🧠 Skill Set (Résumé‑Aligned)
+## 🧠 Skill Set
 
 ### 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,7 +111,7 @@
 ---
 
 ## 🧠 Random Dev Quote
-> "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
+> "Any sufficiently advanced technology is indistinguishable from magic."
 > — *Arthur C. Clarke*
 
 <p align="center"><em>✨ Building reliable, data‑driven solutions — one line of code at a time. ✨</em></p>
